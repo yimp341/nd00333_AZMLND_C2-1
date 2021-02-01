@@ -22,9 +22,17 @@ For the deployment, we need to enable applications insights.
 ![alt text](https://github.com/yimp341/nd00333_AZMLND_C2-1/blob/master/Applications%20insights%20enabled.PNG?raw=true)
 
 We enable logging by runing the logs.py file in the swagger folder.
+
 ![alt text](https://github.com/yimp341/nd00333_AZMLND_C2-1/blob/master/Logs1.PNG?raw=true)
 
 ![alt text](https://github.com/yimp341/nd00333_AZMLND_C2-1/blob/master/Logs2.PNG?raw=true)
+
+We run Swagger in localhost port 900 in order to get the HTTP API information
+
+![alt text](https://github.com/yimp341/nd00333_AZMLND_C2-1/blob/master/Swagger.PNG?raw=true)
+![alt text](https://github.com/yimp341/nd00333_AZMLND_C2-1/blob/master/Swagger2.PNG?raw=true)
+![alt text](https://github.com/yimp341/nd00333_AZMLND_C2-1/blob/master/Swagger3.PNG?raw=true)
+![alt text](https://github.com/yimp341/nd00333_AZMLND_C2-1/blob/master/Swagger4.PNG?raw=true)
 
 ![alt text](?raw=true)
 ![alt text](?raw=true)
