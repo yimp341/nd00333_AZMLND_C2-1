@@ -39,12 +39,22 @@ Then, we run the endpoint.py file and get the following JSON output.
 ![alt text](https://github.com/yimp341/nd00333_AZMLND_C2-1/blob/master/Endpoint.PNG?raw=true)
 
 ## Pipeline creation and publication
+First, we create a pipeline for the AutoML experiment, with the help of the Jupyter notebook.
 
+![alt text](https://github.com/yimp341/nd00333_AZMLND_C2-1/blob/master/Pipeline%20Section.PNG?raw=true)
+
+The created pipeline looks like this:
+
+![alt text](https://github.com/yimp341/nd00333_AZMLND_C2-1/blob/master/Pipeline.PNG?raw=true)
+
+After publishing the Pipeline we can see the rest endpoint in the overview
+
+![alt text](https://github.com/yimp341/nd00333_AZMLND_C2-1/blob/master/Published%20Pipeline%20Overview.PNG?raw=true)
 
 ![alt text](?raw=true)
 ![alt text](?raw=true)
 ![alt text](?raw=true)
-
+![alt text](?raw=true)
 
 
 
