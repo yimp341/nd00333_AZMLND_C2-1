@@ -11,7 +11,10 @@ I think the weakness of the project is in the deployment. The user needs to run 
 ## The key steps of the project
 First we make sure that the dataset is registered in the Azure ML studio:
 ![alt text](https://github.com/yimp341/nd00333_AZMLND_C2-1/blob/master/Bankmarketing%20dataset.PNG?raw=true)
+
 We run an AutoML experiment for the previous dataset. The target column is called "y".
 ![alt text](https://github.com/yimp341/nd00333_AZMLND_C2-1/blob/master/Experiment%20completed.PNG?raw=true)
+
+
 
 
