@@ -51,10 +51,19 @@ After publishing the Pipeline we can see the rest endpoint in the overview
 
 ![alt text](https://github.com/yimp341/nd00333_AZMLND_C2-1/blob/master/Published%20Pipeline%20Overview.PNG?raw=true)
 
-![alt text](?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
+Here is the output for Rundetails in the Jupyter notebook:
+![alt text](https://github.com/yimp341/nd00333_AZMLND_C2-1/blob/master/Run%20details.PNG?raw=true)
+
+We get some active Endpoints for the Pipeline deployment
+![alt text](https://github.com/yimp341/nd00333_AZMLND_C2-1/blob/master/Pipeline%20Endpoint%201.PNG?raw=true)
+![alt text](https://github.com/yimp341/nd00333_AZMLND_C2-1/blob/master/Pipeline%20Endpoint%202.PNG?raw=true)
+
+And finally we show both runs of the pipeline.
+
+![alt text](https://github.com/yimp341/nd00333_AZMLND_C2-1/blob/master/Scheduled%20run.PNG?raw=true)
+
+## Screencast
+https://drive.google.com/file/d/18ZPQI7ztnFpgxf2mwwWWb4wVUkRz-Bxz/view
 
 
 
