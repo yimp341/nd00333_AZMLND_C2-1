@@ -3,7 +3,7 @@
 ## Overview
 This is the second project of the Machine Learning Engineer with Microsoft Azure Nanodegree Program. In this project, we have to deploy an AutoML model, consume the model endpoints and finally create and publish a pipeline.
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/yimp341/nd00333_AZMLND_C2-1/blob/master/Archdiagram.PNG?raw=true)
 
 ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
